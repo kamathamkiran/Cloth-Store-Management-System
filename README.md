@@ -17,7 +17,7 @@ This project is a cloth store management system developed using Python, MySQL, a
 
 ## Installation and Setup
 
-1. Clone the repository
+1. Clone the repository: https://github.com/kamathamkiran/Cloth-Store-Management-System.git
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Create a MySQL database and import the provided SQL file.
 4. Update the database connection settings in the configuration file.
